@@ -146,6 +146,10 @@ nav {
     background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('images/bg10.jpg');
 }
 
+._404-bg {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) ), url('images/bg2.jpg');
+}
+
 /*.carousel-inner .item a img {
     width: 100%;
 }*/
