@@ -597,7 +597,7 @@ form textarea {
     }
     
     .text-box-title h2 {
-        font-size: 65px;
+        font-size: 55px;
     }
     
     .tab .nav-tabs li{
@@ -624,7 +624,7 @@ form textarea {
     }
     
     .btn-default {
-        width: 100%;
+        width: 75%;
     }
     
     .navbar {
@@ -636,6 +636,14 @@ form textarea {
         background: white;
         position: relative;
         z-index: 3;
+    }
+    
+    .page {
+        padding: 0 10px 0 10px;
+    }
+    
+    .half, .cf .right {
+        width: 100%;
     }
     
 }
